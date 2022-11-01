@@ -1,0 +1,26 @@
+{
+    "715f30e9091e993da69479560d7d7e02": {
+        "page_script_hash": "715f30e9091e993da69479560d7d7e02",
+        "page_name": "Login",
+        "icon": "\ud83d\udd10",
+        "script_path": "E:\\Project.Data\\Movie Recomendation\\1_\ud83d\udd10_Login.py"
+    },
+    "b1b5c98d27b82523ebd284aafcc501cf": {
+        "page_script_hash": "b1b5c98d27b82523ebd284aafcc501cf",
+        "page_name": "Home",
+        "icon": "\ud83c\udfe0",
+        "script_path": "E:\\Project.Data\\Movie Recomendation\\pages\\1_\ud83c\udfe0_Home.py"
+    },
+    "3d8fb665f61beedfcf3090f00907704e": {
+        "page_script_hash": "3d8fb665f61beedfcf3090f00907704e",
+        "page_name": "Project_Workflow",
+        "icon": "\ud83d\udcca",
+        "script_path": "E:\\Project.Data\\Movie Recomendation\\pages\\2_\ud83d\udcca_Project Workflow.py"
+    },
+    "09e8e73fd539072c7b7d8c75ab89e0e7": {
+        "page_script_hash": "09e8e73fd539072c7b7d8c75ab89e0e7",
+        "page_name": "Other's",
+        "icon": "\ud83d\udcdd",
+        "script_path": "E:\\Project.Data\\Movie Recomendation\\pages\\3_\ud83d\udcdd_Other's.py"
+    }
+}
