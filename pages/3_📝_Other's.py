@@ -131,7 +131,7 @@ if selected == 'Users Database':
                manage how that information is organized.If you have an admin access
                then access database with the secure key to see the data._''')
     admin_key = st.text_input('Secure Key', placeholder='key...', type='password')
-    Password = 'admin$8910'
+    Password = '#########'
     if st.button('Access'):
         
         if admin_key == Password:
