@@ -6,11 +6,22 @@
              [![Streamlit 1.14.0](https://img.shields.io/badge/Streamlit%20-1.14.0-Ff0000)](https://docs.streamlit.io/) 
              [![Cloud Platform](https://img.shields.io/badge/CloudPlatform-Heroku-9cf)](https://www.heroku.com/managed-data-services)
              
-This is a secured Movies Recommendation Web Application. Based on your past choices and behavior it will suggest five movies. And also you can check out top TV Shows. 
+Hi!👋 This is a secured Movies Recommendation Web Application. Based on your past choices and behavior it will suggest five movies. And also you can check out top TV Shows. 
 
 A movie recommendation system, or a movie recommender system, is an ML-based approach to filtering or predicting the users’ film preferences based on their past choices and behavior. It’s an advanced filtration mechanism that predicts the possible movie choices of the concerned user and their preferences towards a domain-specific item, aka movie.
 
+Dependencies :
 
+- Text Vectorization(B0W)
+- scikit-learn 1.0.2
+- cosine-similarity
+- Jupyter Notebook
+- streamlit 1.14.0
+- Python 3.10.0
+- nltk 3.6.7
+- Pandas
+- Numpy
 
+---
 
 Web Application Link : https://movies-r-system.herokuapp.com
