@@ -22,6 +22,20 @@ Dependencies :
 - Pandas
 - Numpy
 
----
+Install dependencies using [conda](https://docs.conda.io/en/latest/)
 
+---
+steps :  "DataCollection🗂️", "Preprocessing👨‍💻", "Model Build🤖", "Website Build🌐", "Deployment🎯"
+
+- DataSet is collected from [Kaggle](https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set)
+- Build the model using [Text Vectorization](https://towardsdatascience.com/text-vectorization-bag-of-words-bow-441d1bfce897) ( Bags of words) technique.
+- Website build using [Python](https://www.python.org/downloads/release/python-3100/) and [streamlit](https://docs.streamlit.io/).
+- Then Application is deployed in [Heroku](https://devcenter.heroku.com/categories/reference) cloud server
+
+Note : For all code check the [Movies-Recommendation-System](https://github.com/Rafikul10/Movies-Recommendation-System) repositories.
+
+---
 Web Application Link : https://movies-r-system.herokuapp.com
+
+_My vision for build this Web Application is for fun and learning purpose don't misuse of this Web Application._ Thank You!❤️
+
