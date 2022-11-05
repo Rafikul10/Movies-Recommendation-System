@@ -13,9 +13,9 @@ A movie recommendation system, or a movie recommender system, is an ML-based app
 Dependencies :
 
 - Text Vectorization(B0W)
+- Jupyter Notebook 
 - scikit-learn 1.0.2
 - cosine-similarity
-- Jupyter Notebook
 - streamlit 1.14.0
 - Python 3.10.0
 - nltk 3.6.7
