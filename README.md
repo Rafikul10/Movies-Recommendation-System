@@ -27,7 +27,7 @@ Install dependencies using [conda](https://docs.conda.io/en/latest/)
 ---
 steps :  "DataCollection🗂️", "Preprocessing👨‍💻", "Model Build🤖", "Website Build🌐", "Deployment🎯"
 
-- DataSet is collected from [Kaggle](https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set)
+- DataSet is collected from [Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 - Build the model using [Text Vectorization](https://towardsdatascience.com/text-vectorization-bag-of-words-bow-441d1bfce897) ( Bags of words) technique.
 - Website build using [Python](https://www.python.org/downloads/release/python-3100/) and [streamlit](https://docs.streamlit.io/).
 - Then Application is deployed in [Heroku](https://devcenter.heroku.com/categories/reference) cloud server
